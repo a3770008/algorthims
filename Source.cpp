@@ -2,9 +2,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
+int main( )
 {
-	int a[5],count = 5;
+	int a[5],count = 5; //123
 	int i = 0, j = 0;
 
 	while (1)
