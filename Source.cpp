@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main( )
+int main( )//123456
 {
 	int a[5],count = 5; //123
 	int i = 0, j = 0;
